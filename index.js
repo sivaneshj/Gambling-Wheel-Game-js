@@ -129,7 +129,7 @@ const game =()=>{
             console.log("ran out money");
             break;
         }
-        const ask =prompt("want to play again (y/n): ");
+        const ask =prompt("want to play-again (y/n): ");
         if(ask != "y"){
             break;
         };      
